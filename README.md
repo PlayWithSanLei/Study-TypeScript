@@ -1,4 +1,4 @@
-# typescript笔记
+# TypeScript笔记
 
 ## 原始数据类型
 
